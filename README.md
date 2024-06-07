@@ -3,13 +3,14 @@
 ### Desafio DIO De IAs generativas
 
 
-# Introdução a Redes de computadores
+## Vídeo: Introdução a Redes de computadores 🎥
 
 ## 📒 Descrição
-Um video sobre redes de computadores
+Um video sobre redes de computadores pensado para se postado em um canal no youtube.
 
 ## 🤖 Tecnologias Utilizadas
-Visla e ChatGPT
+- IA Generativa: ChatGPT (https://chat.openai.com) para roteirização;
+- IA Generativa Visla (https://www.visla.us/ai-video-generator) para narração, criação e edição do video;
 
 ## 🧐 Processo de Criação
 Primeiro eu fiz um prompt no ChatGPT pedindo para que ele criasse um roteiro falando sobre redes de computadores, logo em seguida eu peguei esse roteiro e coloquei la na plataforma Visla para que la fosse gerado o video.
